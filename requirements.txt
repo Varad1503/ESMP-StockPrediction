@@ -1,4 +1,6 @@
 plotly==4.14.3
-fbprophet<0.7.1
+munpy==1.20.3.1
+pystan==2.19.1.1
+fbprophet==0.7.1
 yfinance==0.1.59
 streamlit==0.82.0
